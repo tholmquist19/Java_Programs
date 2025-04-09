@@ -1,0 +1,39 @@
+Registering EyeOfSauron as the Subject (Observable Object)
+Good guys forming the resistance (Data Object)
+
+Registering Sauruman as an observer
+Sauruman was added as an observer of EyeOfSauron
+
+EyeOfSauron has spotted good guys, notifying the bad guys
+
+Sauruman - Changed property: Hobbits [old -> 0] | [new -> 1]
+Sauruman - Changed property: Elves [old -> 0] | [new -> 2]
+Sauruman - Changed property: Dwarves [old -> 0] | [new -> 3]
+Sauruman - Changed property: Humans [old -> 0] | [new -> 4]
+
+Registering The Witch King as a second observer
+Witch King was added as an observer of EyeOfSauron
+
+Updating the Good Guys to add hobbits, elves, dwarves and no humans
+
+EyeOfSauron has spotted more good guys, notifying the bad guys
+
+Sauruman - Changed property: Hobbits [old -> 1] | [new -> 2]
+Witch King - Changed property: Hobbits [old -> 1] | [new -> 2]
+Sauruman - Changed property: Elves [old -> 2] | [new -> 14]
+Witch King - Changed property: Elves [old -> 2] | [new -> 14]
+Sauruman - Changed property: Dwarves [old -> 3] | [new -> 23]
+Witch King - Changed property: Dwarves [old -> 3] | [new -> 23]
+
+Removing the Witch King as a second observer
+Witch King was defeated
+
+
+Updating the Good Guys to add hobbits, elves, dwarves and humans
+
+EyeOfSauron has spotted more good guys, notifying the bad guys
+
+Sauruman - Changed property: Hobbits [old -> 2] | [new -> 6]
+Sauruman - Changed property: Elves [old -> 14] | [new -> 12]
+Sauruman - Changed property: Dwarves [old -> 23] | [new -> 18]
+Sauruman - Changed property: Humans [old -> 4] | [new -> 104]

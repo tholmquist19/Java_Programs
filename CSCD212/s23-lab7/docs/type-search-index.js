@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cscd212observers","l":"BadGuy"},{"p":"cscd212subjects","l":"EyeOfSauron"},{"p":"cscd212dataobjects","l":"GoodGuys"},{"p":"cscd212lab7","l":"PropertyChangeMainLOR"}]
